@@ -1443,8 +1443,8 @@ void side_menu(int op)
             cout << " 3) Show all patients\n";
             cout << " 4) Main Menu\n";
             cout << "------------------------------------------------------------\n";
-            cin >> cho;
             cout << "Enter Your choice : ";
+            cin >> cho;
             cout << nl;
 
             if (cho == 1)
